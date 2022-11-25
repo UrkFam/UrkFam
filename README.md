@@ -1,5 +1,5 @@
 - Hi, I’m Eric and I am a Computer Science major at the University of Washington!
-- I am interested in all aspects of Game Design (2D, 3D, VR, etc.), as well as software engineering. 
+- I am interested in all aspects of software engineering (full stack, with expertise on Java/C/Python backend development) as well as security engineering via code reviews and mitigations
 - I’m currently learning database systems and advanced software engineering techniques, while still strengthening my background with Assembly.
 - My passion for coding started as a kid surfing through KhanAcademy to learn HTML, CSS, and Javascript fundamental concepts. 
 - Through my early spark for coding and fascination of implementing it to make elaborate, almost-surreal software projects, I went to the University of Washington to continue this   passion; here, I mastered my proficiency for Java, C++, and Assembly (utilizing Motorola's Easy68k Chip) by using a variety of IDEs such as Repl.IT, Microsoft Visual Studio, NetBeans, and so many more.
