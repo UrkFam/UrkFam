@@ -1,7 +1,7 @@
 - Hi, I’m Eric and I am a Computer Science major at the University of Washington!
-- I am interested in all aspects of software engineering (full stack, with expertise on Java/C/Python backend development) as well as security engineering via code reviews and mitigations
-- I’m currently learning database systems and advanced software engineering techniques, while still strengthening my background with Assembly.
+- I am interested in all aspects of software engineering (full stack, with expertise on Java/C/Python backend development) as well as security engineering via code reviews and protecting the security landscape of coding environments.
 - My passion for coding started as a kid surfing through KhanAcademy to learn HTML, CSS, and Javascript fundamental concepts. 
 - Through my early spark for coding and fascination of implementing it to make elaborate, almost-surreal software projects, I went to the University of Washington to continue this   passion; here, I mastered my proficiency for Java, C++, and Assembly (utilizing Motorola's Easy68k Chip) by using a variety of IDEs such as Repl.IT, Microsoft Visual Studio, NetBeans, and so many more.
-- I am looking to collaborate on game design projects, and software engineering pertaining to planning and designing website and game software!
+- I am looking to work with other skilled developers to create worthwhile projects, backend or frontend, to produce valuable results.
+- I am also looking to collaborate on game design projects, and software engineering pertaining to planning and designing website and game software!
 - For project inquiries or other work, please contact me at erictpham2002@gmail.com or text/call me at 425-918-0315.
